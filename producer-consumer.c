@@ -1,8 +1,8 @@
 /* 
 Integrantes da equipe: 
-Alana Maria Sousa Augusto
-Clara Cruz Alves 
-Jennifer Marques de Brito
+Alana Maria Sousa Augusto - 564976
+Clara Cruz Alves - 568563
+Jennifer Marques de Brito - 569710
 */
 
 // item G da 1ª questão
