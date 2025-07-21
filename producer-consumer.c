@@ -1,3 +1,10 @@
+/* 
+Integrantes da equipe: 
+Alana Maria Sousa Augusto
+Clara Cruz Alves 
+Jennifer Marques de Brito
+*/
+
 // item G da 1ª questão
 // 6 threads produtoras e 2 consumidoras utilizando mutex
 // Alana Maria Sousa Augusto
